@@ -20,13 +20,30 @@ Each lesson contains separate folders for speaking and writing:
 
 ## Current Lesson
 
+## Completed Lesson
+
 ### Lektion 1: Fremde Sprachen
 
-Completed activities:
+- Speaking tasks completed: 10
+- Writing tasks completed: 6
+- Average speaking score: approximately 61%
+- Average writing score: approximately 63%
 
-- Speaking 01: Mein deutsches Lieblingswort
-- Speaking 02: Selbstvorstellung
-- Writing 01: Selbstvorstellung
+Main grammar topics:
+
+- questions with `ob`
+- infinitive with `zu`
+- `um ... zu`
+- `weil`, `dass`, `deshalb` and `trotzdem`
+- superlative forms
+- `je ..., desto ...`
+
+Detailed results are available in progress.md.
+
+## Current Goal
+
+My next goal is to begin Lektion 2 and improve my speaking and writing
+scores to at least 70%.
 
 ## Learning Process
 
